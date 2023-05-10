@@ -1,0 +1,27 @@
+.wrapper {
+    margin-left: 20px;
+}
+
+h2 {
+    color: rgb(139, 4, 88);
+    font-size: 50px;
+}
+
+.content-title {
+    color: rgb(91, 23, 131);
+}
+
+.content-input,
+.button {
+    height: 60px;
+}
+
+.button {
+    width: 250px;
+    background-color: brown;
+    color: white;
+}
+
+#container {
+    margin-top: 50px;
+}
